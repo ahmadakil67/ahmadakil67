@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7CCS+Graduate+from+NEUB;PhD+Dreamer+%F0%9F%8F%9B%EF%B8%8F+USA+Fall+2026;Lifelong+Learner+%F0%9F%93%9A;Coding+with+Passion+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML;%7CCS+Graduate+from+NEUB;Coding+with+Passion+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
