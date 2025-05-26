@@ -1,25 +1,8 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Ahmad%20Akil&text2=&width=900&height=400)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Enthusiast;Full+Stack+Web+Developer;Coding+with+Passion+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Ahmad Akil
-🎓 degree: BSc in Computer Science & Engineering
-🏫 university: North East University Bangladesh
-🧠 interest:
-  - Deep Learning
-  - Image Forensics
-  - NLP for Social Good
-  - Research & Innovation
-🎯 goal: Start PhD in the USA (Fall 2026)
-```
 
 ---
 
