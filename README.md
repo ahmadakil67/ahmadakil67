@@ -114,6 +114,7 @@
 
 🧰 **Tech Stack:**  
 `React.js` • `React Router` • `TailwindCSS` • `JavaScript`
+
 ---
 
 ## 🤝 Let’s Connect
