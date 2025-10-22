@@ -4,6 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
+## 👨‍💻 About Me
+
+Hi, I'm **[Ahmad Akil]** — a [Full Stack Developer] passionate about turning ideas into scalable digital products.
+
+- 🎯 **Focus Areas:** [e.g., Web Development, Optimized Frontend, Scalable Backend Systems]
+- 🧠 **Currently Learning:** [Next.js 15, cloud deployment pipelines]
+- 🤝 **Open to Collaborate On:** [Open-source projects, SaaS platforms, AI tools]
+- 💬 **Ask Me About:** [React, Typescript, Next.js, Node.js, Express.js, MongoDB, Mongoose, or ML models]
+- 📧 **Reach Me At:** ferozbinakil@gmail.com 
+
+---
+
+> “Write code that not only works, but *works smart* — scalable, elegant, and built for the future.”
+
+
 ---
 
 ## 🚀 Skills
