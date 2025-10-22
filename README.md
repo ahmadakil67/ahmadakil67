@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **[Ahmad Akil]** — a Full Stack Developer passionate about turning ideas into scalable digital products.
+Hi, I'm **Ahmad Akil** — a Full Stack Developer passionate about turning ideas into scalable digital products.
 
 - 🎯 **Focus Areas:** Web Development, Optimized Frontend, Scalable Backend Systems
 - 🧠 **Currently Learning:** Next.js 15, cloud deployment pipelines
@@ -139,9 +139,6 @@ Hi, I'm **[Ahmad Akil]** — a Full Stack Developer passionate about turning ide
   </a>
   <a href="https://x.com/AhmadAk93330588" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://www.facebook.com/ahmad.akil.31105" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
   <a href="https://discordapp.com/users/872184821361836073" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
